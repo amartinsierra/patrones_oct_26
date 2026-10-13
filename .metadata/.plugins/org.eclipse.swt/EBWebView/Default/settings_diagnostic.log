@@ -218,3 +218,11 @@
 {"logTime": "1013/082329", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
 {"logTime": "1013/082335", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
 {"logTime": "1013/082335", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/084819", "level": "INFO", "message": "Preference changed: name=language_dwell_time_average, new_value=[object], source=unknown"}
+{"logTime": "1013/084819", "level": "INFO", "message": "Preference changed: name=language_usage_count, new_value=[object], source=unknown"}
+{"logTime": "1013/084819", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.media_engagement, new_value=[object], source=unknown"}
+{"logTime": "1013/084819", "level": "INFO", "message": "Preference changed: name=language_dwell_time_average, new_value=[object], source=unknown"}
+{"logTime": "1013/084819", "level": "INFO", "message": "Preference changed: name=language_usage_count, new_value=[object], source=unknown"}
+{"logTime": "1013/084819", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.media_engagement, new_value=[object], source=unknown"}
+{"logTime": "1013/084819", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1013/084819", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
