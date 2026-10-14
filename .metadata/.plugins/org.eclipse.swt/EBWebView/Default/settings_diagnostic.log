@@ -389,3 +389,4 @@
 {"logTime": "1014/081442", "level": "INFO", "message": "Preference changed: name=profile.last_time_password_store_metrics_reported, new_value=1791965682.535692, source=unknown"}
 {"logTime": "1014/081442", "level": "INFO", "message": "Preference changed: name=edge_wallet.passwords.password_lost_report_date, new_value=\"13436439282535890\", source=unknown"}
 {"logTime": "1014/081452", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1014/100945", "level": "INFO", "message": "Preference changed: name=language_model_counters, new_value=[object], source=unknown"}
