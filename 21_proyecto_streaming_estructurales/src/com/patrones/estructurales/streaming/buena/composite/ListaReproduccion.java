@@ -17,7 +17,7 @@ public class ListaReproduccion implements ComponenteReproducible {
 
     @Override
     public void reproducir() {
-        System.out.println(" Lista: " + nombre);
+        System.out.println("Reproduciendo Lista: " + nombre);
         for (ComponenteReproducible e : elementos) {
             e.reproducir();
         }
