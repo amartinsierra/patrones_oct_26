@@ -55,3 +55,22 @@
 2026-10-14 08:14:12.596: [INFO] BookmarkModelLoaded, ids_reassigned: 0
 2026-10-14 08:14:12.596: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-10-14 08:14:12.596: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-15 06:41:33.612: [INFO] CurrentProfilePath: C:\cursos\curso_patrones_diseño_indra_ed10_oct_2006\repo_curso\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-15 06:41:33.612: [INFO] Profiles total count: 1
+2026-10-15 06:41:33.612: [INFO] Profile: name=Perfil 1 path=C:\cursos\curso_patrones_diseño_indra_ed10_oct_2006\repo_curso\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T08:14:18.825Z
+2026-10-15 06:41:33.612: [INFO] LastUsedProfileDir: C:\cursos\curso_patrones_diseño_indra_ed10_oct_2006\repo_curso\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-15 06:41:33.612: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\cursos\curso_patrones_diseño_indra_ed10_oct_2006\repo_curso\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-14T08:14:18.825Z
+2026-10-15 06:41:33.612: [INFO] OnDoneLoading sync enabled: 0
+2026-10-15 06:41:33.612: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-15 06:41:33.612: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-15 06:41:33.612: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-15 07:37:47.213: [INFO] CurrentProfilePath: C:\cursos\curso_patrones_diseño_indra_ed10_oct_2006\repo_curso\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-15 07:37:47.214: [INFO] Profiles total count: 1
+2026-10-15 07:37:47.214: [INFO] Profile: name=Perfil 1 path=C:\cursos\curso_patrones_diseño_indra_ed10_oct_2006\repo_curso\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-15T07:27:08.139Z
+2026-10-15 07:37:47.214: [INFO] LastUsedProfileDir: C:\cursos\curso_patrones_diseño_indra_ed10_oct_2006\repo_curso\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-10-15 07:37:47.214: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\cursos\curso_patrones_diseño_indra_ed10_oct_2006\repo_curso\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-10-15T07:27:08.139Z
+2026-10-15 07:37:47.214: [INFO] OnDoneLoading sync enabled: 0
+2026-10-15 07:37:47.214: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-10-15 07:37:47.214: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-10-15 07:37:47.214: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-10-15 07:53:28.678: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
