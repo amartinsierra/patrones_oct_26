@@ -4,11 +4,11 @@ import com.patrones.estructurales.streaming.buena.composite.ComponenteReproducib
 import com.patrones.estructurales.streaming.buena.composite.Pelicula;
 
 public class ProxyPelicula implements ComponenteReproducible {
-    private Pelicula pelicula;
+    private ComponenteReproducible componente;
     private boolean premium;
 
-    public ProxyPelicula(Pelicula pelicula, boolean premium) {
-        this.pelicula = pelicula;
+    public ProxyPelicula(ComponenteReproducible componente, boolean premium) {
+        this.componente = componente;
         this.premium = premium;
     }
 
@@ -17,7 +17,7 @@ public class ProxyPelicula implements ComponenteReproducible {
         if (!premium) {
             System.out.println("Acceso denegado: necesitas cuenta premium.");
         } else {
-            pelicula.reproducir();
+        	componente.reproducir();
         }
     }
 }
