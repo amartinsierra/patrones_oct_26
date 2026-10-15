@@ -9,6 +9,7 @@ import com.patrones.flyweight.interfaz.UsoIVA;
 public class UsoIVAFactory {
     private final Map<String, UsoIVA> cache = new ConcurrentHashMap<>();
     public UsoIVA obtenerUso(String tipo) {
+    	System.out.println(cache.size());
         return cache.computeIfAbsent(tipo, k -> {
             // Simular carga de config externa
             double porcentaje = switch (k) {
