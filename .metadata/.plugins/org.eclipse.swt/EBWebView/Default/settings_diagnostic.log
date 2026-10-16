@@ -704,3 +704,4 @@
 {"logTime": "1016/094748", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
 {"logTime": "1016/094751", "level": "INFO", "message": "Preference changed: name=profile.observed_session_time, new_value=[object], source=unknown"}
 {"logTime": "1016/094758", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1016/113757", "level": "INFO", "message": "Preference changed: name=language_model_counters, new_value=[object], source=unknown"}
