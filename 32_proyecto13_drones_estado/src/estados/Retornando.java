@@ -27,5 +27,20 @@ public class Retornando implements Estado {
 		System.out.println("Ya está regresando");
 
 	}
+	/*public void handleCommand(String command, Controlador controlador) {
+	switch (command.toLowerCase()) {
+		case "aterrizar":
+			System.out.println("Aterrizando!");
+			controlador.setEstado(new EnTierra());
+			break;
+		case "reconocimiento":
+			System.out.println("Reconociendo!");
+			controlador.setEstado(new EnVuelo());
+			break;
+		
+		default:
+			System.out.println("Comando no reconocido en estado Retornando");
+		}
+	}*/
 
 }
