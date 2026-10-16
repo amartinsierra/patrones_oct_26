@@ -655,3 +655,11 @@
 {"logTime": "1016/075357", "level": "INFO", "message": "Preference changed: name=language_usage_count, new_value=[object], source=unknown"}
 {"logTime": "1016/075357", "level": "INFO", "message": "Preference changed: name=language_model_counters, new_value=[object], source=unknown"}
 {"logTime": "1016/075407", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1016/092401", "level": "INFO", "message": "Preference changed: name=language_dwell_time_average, new_value=[object], source=unknown"}
+{"logTime": "1016/092401", "level": "INFO", "message": "Preference changed: name=language_usage_count, new_value=[object], source=unknown"}
+{"logTime": "1016/092401", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.media_engagement, new_value=[object], source=unknown"}
+{"logTime": "1016/092401", "level": "INFO", "message": "Preference changed: name=language_dwell_time_average, new_value=[object], source=unknown"}
+{"logTime": "1016/092401", "level": "INFO", "message": "Preference changed: name=language_usage_count, new_value=[object], source=unknown"}
+{"logTime": "1016/092401", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.media_engagement, new_value=[object], source=unknown"}
+{"logTime": "1016/092403", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1016/092403", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
