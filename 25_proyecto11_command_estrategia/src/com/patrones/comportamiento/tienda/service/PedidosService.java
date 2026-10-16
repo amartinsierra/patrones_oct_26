@@ -13,6 +13,7 @@ public class PedidosService {
     public PedidosService(EstrategiaDescuento estrategia) {
         this.estrategia = estrategia;
     }
+    //fachada
     public void procesarPedido(Pedido pedido) {
     	pedido.setPrecio(estrategia.aplicarDescuento(pedido.getPrecio()));
 		//ejecutamos comandos de pago y envio
